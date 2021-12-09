@@ -31,44 +31,44 @@ const app = {
     {
         name: "Cưới Thôi",
         singer: "Masew",
-        path: "/CuoiThoi.mp3",
-        image: "/1.jpg"
+        path: "CuoiThoi.mp3",
+        image: "1.jpg"
     },
     {
         name: "Ái Nộ",
         singer: "Orange",
-        path: "/3.mp3",
-        image: "/1.jpg"
+        path: "3.mp3",
+        image: "1.jpg"
     },
     {
         name: "Sài Gòn Đâu Có Lạnh",
         singer: "",
-        path: "/2.mp3",
-        image: "/1.jpg"
+        path: "2.mp3",
+        image: "1.jpg"
     },
     {
         name: "Nhớ Người Hay Nhớ",
         singer: "Khói",
-        path: "/4.mp3",
-        image: "/1.jpg"
+        path: "4.mp3",
+        image: "1.jpg"
     },
     {
         name: "Chân Ái",
         singer: "Orange",
-        path: "/5.mp3",
-        image: "/1.jpg"
+        path: "5.mp3",
+        image: "1.jpg"
     },
     {
         name: "Tôi Muốn Quên Em",
         singer: "Phan Mạnh Quỳnh",
-        path: "/6.mp3",
-        image: "/1.jpg"
+        path: "6.mp3",
+        image: "1.jpg"
     },
     {
         name: "Người Khác",
         singer: "Phan Mạnh Quỳnh",
-        path: "/7.mp3",
-        image: "/1.jpg"
+        path: "7.mp3",
+        image: "1.jpg"
     }
     ],
     setConfig: function (key, value) {
